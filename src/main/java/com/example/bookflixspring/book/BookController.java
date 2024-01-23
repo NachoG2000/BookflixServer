@@ -1,4 +1,4 @@
-package com.example.bookflixspring;
+package com.example.bookflixspring.book;
 
 import java.net.URI;
 import java.util.List;

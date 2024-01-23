@@ -1,4 +1,4 @@
-package com.example.bookflixspring;
+package com.example.bookflixspring.book;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.relational.core.mapping.Table;

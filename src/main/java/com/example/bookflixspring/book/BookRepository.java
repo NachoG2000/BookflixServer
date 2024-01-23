@@ -1,4 +1,4 @@
-package com.example.bookflixspring;
+package com.example.bookflixspring.book;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.PagingAndSortingRepository;
